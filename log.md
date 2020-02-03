@@ -13,6 +13,7 @@
 - Follow along with [100 days of Swift UI](https://www.hackingwithswift.com/100/swiftui)
 - Build foundational cloud knowledge by completing some AWS/GCP tutorial projects.
 - Write a web app for creating invocies (for my parent's business).
+- [Project Euler](https://projecteuler.net/) and (Leetcode)[https://leetcode.com/] problems on days when I don't want to work on my open projects.
 
 **Link to work:** [Personal Website](http://www.elliotalker.com) - My personal website is up, but I want to transform it into a Jekyll blog. 
 
