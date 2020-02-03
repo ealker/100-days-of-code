@@ -9,7 +9,8 @@
 - Tidy up personal website (change it into a blog). 
 - Make my Nasa APOD project
 - Responsive data visualisation websites fetching some data from APIs,
-- Complete some projects from 
+- Complete some projects from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+- Build foundational cloud knowledge by completing some AWS/GCP tutorial projects.
 - Write a web app for creating invocies (for my parent's business).
 
 **Link to work:** [Personal Website](http://www.elliotalker.com) - My personal website is up, but I want to transform it into a Jekyll blog. 
