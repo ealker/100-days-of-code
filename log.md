@@ -9,7 +9,8 @@
 - Tidy up personal website (change it into a blog). 
 - Make my Nasa APOD project
 - Responsive data visualisation websites fetching some data from APIs,
-- Complete some projects from [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+- Complete some projects from [FreeCodeCamp](https://www.freecodecamp.org/learn/). 
+- Follow along with [100 days of Swift UI](https://www.hackingwithswift.com/100/swiftui)
 - Build foundational cloud knowledge by completing some AWS/GCP tutorial projects.
 - Write a web app for creating invocies (for my parent's business).
 
