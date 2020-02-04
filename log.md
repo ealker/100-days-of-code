@@ -33,3 +33,15 @@ efficiently, but the API is good. This was good practice for my JavaScript, and 
 
 - Date pickers aren't a universally implemented feature on browsers (looking at you Safari). 
 - Remember to put scripts before the closing `body` tag and not between the `head` tags. They will run before the web page has been rendered. 
+
+### Day 2: February 4th, 2020 
+
+**Today's Progress**: I continued my work on the Nasa APOD search tool today - rather than inputting the date with a 
+text form (as I did in my original project), I decided to use a date picker. As I learned yesterday, the HTML5 `date` type
+doesn't work on all browers (mainly those using web kit); I could either use a text box (but would then have to sanatise input)
+or I could use a JQuery datepicker - since I wanted to have more experience with JQuery, I decided to go for this option. I found a tutorial for using a [bootstrap datepicker](https://formden.com/blog/date-picker).
+
+**Thoughts**: 
+
+- JQuery won't work if the text encoding of the page is incorrect. I explored some answers on StackOverflow and 
+read [Joel Spolsky's Blog](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/).
