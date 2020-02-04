@@ -25,3 +25,11 @@ Courses: I don't have to follow from beginning to end; these are some good start
 **Link to work:** [Personal Website](http://www.elliotalker.com) - My personal website is up, but I want to transform it into a Jekyll blog. 
 
 ### Day 1: February 3rd, 2020
+
+**Today's Progress**: I worked from 15:30 - 17:30 on recreating a smaller project I made quite a while ago - a search webpage for NASA's APOD service. Their website is old and you can't search through the results 
+efficiently, but the API is good. This was good practice for my JavaScript, and I used Bootstrap for the first time in years.
+
+**Thoughts**: 
+
+- Date pickers aren't a universally implemented feature on browsers (looking at you Safari). 
+- Remember to put scripts before the closing `body` tag and not between the `head` tags. They will run before the web page has been rendered. 
