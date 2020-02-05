@@ -25,20 +25,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
     
-    
-    <script>
-        $(document).ready(function(){
-            var date_input=$('input[name="date"]'); //our date input has the name "date"
-            var container=$('.container-fluid').length>0 ? $('.container-fluid').parent() : "body";
-            date_input.datepicker({
-                format: 'mm/dd/yyyy',
-                container: container,
-                todayHighlight: true,
-                autoclose: true,
-            })
-        })
-    </script>
-
 </head>
 
 <body>
@@ -50,27 +36,25 @@
              <div class="col-md-6 col-sm-6 col-xs-12">
           
               <!-- Form code begins -->
-              <form method="post">
+              <form id="date-form">
                 <div class="form-group"> <!-- Date input -->
                   <label class="control-label" for="date">Date</label>
-                  <input class="form-control" id="date" name="date" placeholder="MM/DD/YYY" type="text"/>
+                  <input class="form-control" id="date" name="date" placeholder="YYYY/MM/DD" type="text"/>
                 </div>
                 <div class="form-group"> <!-- Submit button -->
-                  <button class="btn btn-primary " name="submit" type="submit">Submit</button>
+                  <button class="btn btn-primary " name="submit" type="submit">Search</button>
                 </div>
                </form>
                <!-- Form code ends --> 
-          
               </div>
             </div>    
            </div>
 
-        <h4 id="name">Name: </h4>
-        <h4 id="date">Date: </h4>
+        <h4 id="name"></h4>
+        <h4 id="date-taken"></h4>
         <img id="picture" src="" alt="APOD Image" />
-        <h5 id="copyright">Copyright: </h5>
-        <h4 id="description">Description: </h4>
-        <button type="button" class="btn btn-primary" id="getDataButton">Search</button>
+        <h5 id="copyright"></h5>
+        <h4 id="description"></h4>
     </div>
 
 
@@ -84,6 +68,7 @@
         integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
         crossorigin="anonymous"></script>
     <script src="main.js"></script>
+    <script src="datepicker.js"></script>
 </body>
 
 </html>
