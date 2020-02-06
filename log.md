@@ -50,7 +50,7 @@ read [Joel Spolsky's Blog](https://www.joelonsoftware.com/2003/10/08/the-absolut
 
 ***Today's Progress**: I had a lot of dissertation work to complete today, so my coding time this evening was spent working on my unviersity profile site and blog. I've also been looking at improving my skills in responsive web design, so tomorrow I will try and work on a CSS Grid Gallery. 
 
-***Thoughts***: 
+**Thoughts**: 
 
 - Like exercise, it's useful to "get it out of the way" when coding on days when there are a million other things to do. Some days I can sit down and work on a problem for hours, on other days though, life gets in the way. 
 
@@ -58,3 +58,15 @@ read [Joel Spolsky's Blog](https://www.joelonsoftware.com/2003/10/08/the-absolut
 
 ### Day 4: Thursday February 6th 2020
 
+**Today's Progress**: I learnt about CSS Grid and how it differs from Flexbox. I've been quite busy today so only had an hour this evening to code. I started work on a CSS Grid Gallery - I want to be able to load the most recent week of Nasa's APODs. 
+
+**Thoughts**: I found some useful resources today to help me build the rest of this project. 
+
+- [FrontEnd 100 Days](https://github.com/nas5w/100-days-of-code-frontend)
+- [Cards with CSS Grid](https://getflywheel.com/layout/card-layout-css-grid-layout-how-to/)
+- [Full Width Containers](https://css-tricks.com/full-width-containers-limited-width-parents/)
+- [CSS Grid Examles (Grid By Example)](https://gridbyexample.com/examples/) 
+- [How to create an image gallery](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+- [SchemeColour pastels](https://www.schemecolor.com/pastel-color-tones.php)
+- [CSS Split Screen](https://www.w3schools.com/howto/howto_css_split_screen.asp)
+- [Complete Guide to CSS Grid (CSS-Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
