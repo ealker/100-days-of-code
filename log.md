@@ -70,3 +70,5 @@ read [Joel Spolsky's Blog](https://www.joelonsoftware.com/2003/10/08/the-absolut
 - [SchemeColour pastels](https://www.schemecolor.com/pastel-color-tones.php)
 - [CSS Split Screen](https://www.w3schools.com/howto/howto_css_split_screen.asp)
 - [Complete Guide to CSS Grid (CSS-Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+I need to create a new repo as **[commits to forks don't count towards contributions](https://hisaac.net/2016/11/12/why-commits-to-forks-on-github-dont-count-toward-contributions/)**!
