@@ -8,7 +8,7 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%; 
+
 }
 
 body {
@@ -16,12 +16,10 @@ body {
   color: #333;
   font-weight: 300;
   line-height: 1.6; 
-  border: 5px solid orange;
-  height: 100vh;
 }
 
 .container {
-  width: 60%;
+  width: 75%;
   margin: 2rem auto; 
   border: 2px dotted green;
 }
@@ -71,6 +69,8 @@ body {
   /** Alternative Syntax **/
   /* grid-column: 5 / span 4;
   grid-row: 1 / span 5; */
+
+  border: 1px solid blue;
 }
 
 .gallery__item--4 {
@@ -82,6 +82,8 @@ body {
   /** Alternative Syntax **/
   /* grid-column: 1 / span 4;  */
   /* grid-row: 3 / span 3; */
+
+  border: 1px solid blue;
 }
 
 .gallery__item--5 {
@@ -93,6 +95,8 @@ body {
   /** Alternative Syntax **/
   /* grid-column: 1 / span 4; */
   /* grid-row: 6 / span 3; */
+
+  border: 1px solid blue;
 }
 
 .gallery__item--6 {
@@ -104,4 +108,6 @@ body {
   /** Alternative Syntax **/
   /* grid-column: 5 / span 4; */
   /* grid-row: 6 / span 3; */
+
+  border: 1px solid blue;
 }
