@@ -72,3 +72,10 @@ read [Joel Spolsky's Blog](https://www.joelonsoftware.com/2003/10/08/the-absolut
 - [Complete Guide to CSS Grid (CSS-Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 I need to create a new repo as **[commits to forks don't count towards contributions](https://hisaac.net/2016/11/12/why-commits-to-forks-on-github-dont-count-toward-contributions/)**!
+
+### Day 5: Friday 7th February 2020 
+
+**Today's Progress**: I started a local version of what will eventually be my Jekyll blog. I want to be able to show off finished projects in more detail than just a simple log every day. 
+
+**Thoughts**: I was quite distracted today, flicking between learning about JAM stacks, Zeit, then back to CSS Grid Galleries. My domain is http://elliotalker.com right now it's some simple HTML and CSS but it'll be powered by Jekyll in the next few days. 
+
