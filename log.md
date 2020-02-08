@@ -79,3 +79,16 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 **Thoughts**: I was quite distracted today, flicking between learning about JAM stacks, Zeit, then back to CSS Grid Galleries. My domain is http://elliotalker.com right now it's some simple HTML and CSS but it'll be powered by Jekyll in the next few days. 
 
+### Day 6: Saturday 8th February 2020 
+
+***Today's Progress*: Today I'm on holiday in Pembrokeshire; I didn't want to miss a day so I brought my laptop on the trip. I've always liked card layouts that emulate Google's Material Design and how these cards seem to "flaot", so I've updated my CSS Grid Gallery to include some hover animations. The end goal of this small project is to load the last 7 days of [APOD](https://apod.nasa.gov/apod/astropix.html) pictures and give the user the ability to interact with them. This will be part of the archive search website that I worked on in the first couple of days. 
+
+**Thoughts**: I really enjoyed looking at [Tobias Ahlin Bjerrome's](https://tobiasahlin.com) tutorials on CSS - it shows how powerful the language can be. I also discovered [this cool code pen project](https://codepen.io/juliangarnier/pen/idhuG) which animates a model of the solar system. 
+
+- I learn what [Pseduo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) are _actually_ for, and how they can be used in animating elements. With regards to the hover code in the tutorial that I linked to earlier, the larger pseduo `:after` box element is always "there" on the screen, but the opacity is set to 0, so the user can't see it. When the item is "animated" with the `:hover::after` code, the opcaity is set to 1 so the user is able to see the larger box. 
+
+- When building sites, I always keep in mind [this article](https://idlewords.com/talks/website_obesity.htm) from Idle Words. I think it's important that developers take advantage of the powerful computers where our code is executed - we shouldn't be lazy. I'm saying this because animating the gallery items in the way the tutorial outlines is more efficient than just animating the given element's `box-shadow`. 
+
+- For future sites I want to look at using [opacity](https://www.w3schools.com/css/css_image_transparency.asp) to style [hero images](https://en.wikipedia.org/wiki/Hero_image). 
+
+- Animations use different curves, the code I worked on today uses [cubic bezier curves](https://en.wikipedia.org/wiki/Bézier_curve#Cubic_Bézier_curves).
