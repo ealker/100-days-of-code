@@ -48,7 +48,7 @@ read [Joel Spolsky's Blog](https://www.joelonsoftware.com/2003/10/08/the-absolut
 
 ### Day 3:  Wednesday February 5th 2020, 
 
-***Today's Progress**: I had a lot of dissertation work to complete today, so my coding time this evening was spent working on my unviersity profile site and blog. I've also been looking at improving my skills in responsive web design, so tomorrow I will try and work on a CSS Grid Gallery. 
+**Today's Progress**: I had a lot of dissertation work to complete today, so my coding time this evening was spent working on my unviersity profile site and blog. I've also been looking at improving my skills in responsive web design, so tomorrow I will try and work on a CSS Grid Gallery. 
 
 **Thoughts**: 
 
@@ -81,7 +81,7 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 ### Day 6: Saturday 8th February 2020 
 
-***Today's Progress*: Today I'm on holiday in Pembrokeshire; I didn't want to miss a day so I brought my laptop on the trip. I've always liked card layouts that emulate Google's Material Design and how these cards seem to "flaot", so I've updated my CSS Grid Gallery to include some hover animations. The end goal of this small project is to load the last 7 days of [APOD](https://apod.nasa.gov/apod/astropix.html) pictures and give the user the ability to interact with them. This will be part of the archive search website that I worked on in the first couple of days. 
+**Today's Progress**: Today I'm on holiday in Pembrokeshire; I didn't want to miss a day so I brought my laptop on the trip. I've always liked card layouts that emulate Google's Material Design and how these cards seem to "flaot", so I've updated my CSS Grid Gallery to include some hover animations. The end goal of this small project is to load the last 7 days of [APOD](https://apod.nasa.gov/apod/astropix.html) pictures and give the user the ability to interact with them. This will be part of the archive search website that I worked on in the first couple of days. 
 
 **Thoughts**: I really enjoyed looking at [Tobias Ahlin Bjerrome's](https://tobiasahlin.com) tutorials on CSS - it shows how powerful the language can be. I also discovered [this cool code pen project](https://codepen.io/juliangarnier/pen/idhuG) which animates a model of the solar system. 
 
@@ -92,3 +92,39 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 - For future sites I want to look at using [opacity](https://www.w3schools.com/css/css_image_transparency.asp) to style [hero images](https://en.wikipedia.org/wiki/Hero_image). 
 
 - Animations use different curves, the code I worked on today uses [cubic bezier curves](https://en.wikipedia.org/wiki/Bézier_curve#Cubic_Bézier_curves).
+
+### Day 6a, Cheat Day: Sunday 9th February 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 7: Monday 10th February 2020 
+
+**Today's Progress**: I had a busy day today and didn't want to do any research before I started coding like I normally do. I worked on some LeetCode problems. 
+
+**Thoughts**: I liked the TheTechLead's YouTube video on LeetCode - it's useful for practice, but isn't the most effective way of learning programming. I like to think of it as exercise; I should be doing problems a few times a week, to stretch myself, and by the time I get to interviews, the skills are just "there". 
+
+### Day 8: Tuesday 11th February 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 9: Wednesday 12th February 2020
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+### Day 10: Thursday 13th February 2020
+
+**Today's Progress**:  
+
+**Thoughts**: 
+
+### Day 11: Friday 14th February 2020
+
+**Today's Progress**: I started work on a new project today - I want to combine the CSS grid with getting data from the UK Parliament API. 
+
+**Thoughts**: I've found 
