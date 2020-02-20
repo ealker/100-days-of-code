@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## February 2020
+
 ### Day 0: Sunday February 2nd, 2020
 
 **Today's Progress**: I started the challange, posted about it on Twitter for accountability and I've considered the projects I want to work on over the next 100 days. It'll be May 12th by the time I finish this challange, so I will have handed in my dissertaiton and perhaps even completed my final exams. 
@@ -85,7 +87,7 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 **Thoughts**: I really enjoyed looking at [Tobias Ahlin Bjerrome's](https://tobiasahlin.com) tutorials on CSS - it shows how powerful the language can be. I also discovered [this cool code pen project](https://codepen.io/juliangarnier/pen/idhuG) which animates a model of the solar system. 
 
-- I learn what [Pseduo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) are _actually_ for, and how they can be used in animating elements. With regards to the hover code in the tutorial that I linked to earlier, the larger pseduo `:after` box element is always "there" on the screen, but the opacity is set to 0, so the user can't see it. When the item is "animated" with the `:hover::after` code, the opcaity is set to 1 so the user is able to see the larger box. 
+- I learn what [Pseduo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) are _actually_ for, and how they can be used in animating elements. With regards to the hover code in the tutorial that I linked to earlier, the larger pseduo `:after` box element is always "there" on the screen, but the opacity is set to 0, so the user can't see it. When the item is "animated" with the `:hover::after` code, the opcaity is set to 1 so the user is able to see the larger box. I took this site as a [good reference](https://tobiasahlin.com/demo/animate-box-shadow/). 
 
 - When building sites, I always keep in mind [this article](https://idlewords.com/talks/website_obesity.htm) from Idle Words. I think it's important that developers take advantage of the powerful computers where our code is executed - we shouldn't be lazy. I'm saying this because animating the gallery items in the way the tutorial outlines is more efficient than just animating the given element's `box-shadow`. 
 
@@ -107,24 +109,51 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 ### Day 8: Tuesday 11th February 2020
 
-**Today's Progress**: 
+**Today's Progress**: I wanted to see how a lot of modern “one page” websites were built, so I played around with Parallax designs today. I’ve also learnt about CSS transitions. The network is down at my university accommodation today so I’ll upload code tomorrow.
 
-**Thoughts**: 
+**Thoughts**: Update: Kicked from my university network as it turns out that one of my machine has malware. I needed to reinstall my OS to remove "LokiBot".
 
 ### Day 9: Wednesday 12th February 2020
 
-**Today's Progress**:
+**Today's Progress**: I continued with my parallax work today. I want to be able to showcase my work so far by the end of this week!
 
 **Thoughts**: 
+
+- Transitions when jumping between sections would be a nice feature - something smooth scrolling.
 
 ### Day 10: Thursday 13th February 2020
 
-**Today's Progress**:  
+**Today's Progress**: Day 10: I returned to this really good article today: https://idlewords.com/talks/website_obesity.htm…. As a result, I've produced a very minimal implementation of a full width one page website with no JavaScript.
 
-**Thoughts**: 
-
+**Thoughts**: Update from later on in the project (day 16) - to make nav links clickable I added a small amount of JS for navigation purposes. 
+ 
 ### Day 11: Friday 14th February 2020
 
 **Today's Progress**: I started work on a new project today - I want to combine the CSS grid with getting data from the UK Parliament API. 
 
-**Thoughts**: I've found 
+**Thoughts**: A small web app that grabs data from http://data.parliament.uk and makes it pretty - really enjoying playing around with different APIs at the moment.
+
+### Day 12: Saturday 15th February 2020
+
+**Today's Progress**: I've been entertaining guests this weekend so not had much time in the evenings to build, however I'm working on my project pages ready for it to be hosted on Netlify (or similar service). I want to be able to do a "git push" and have site changes appear.
+
+**Thoughts**: Netlify is really cool - it syncs with a GitHub repo through OAuth and like old Apple products, it "just works". I didn't have to do too much messing around with DNS records to get my Go Daddy domain working. 
+
+### Day 13: Sunday 16th February 2020
+
+**Today's Progress**: I need to finish projects before starting new ones. I've worked on a bookshelf app today to look back at all of the books I've read this year - I want something nicer than GoodReads.
+
+**Thoughts**: Projects in Progress:  
+
+- MP Data Search 
+- Nasa APOD Search
+- CSS Grid Gallery 
+- Full Width template website (could be useful for a portfolio)
+- Goodreads bookshelf app.
+
+### Day 14, 15, 16: Monday 17th February 2020, Tuesday 18th February 2020, Wednesday 19th February 2020 
+
+**Today's Progress**: I've continued work on my project site and udpated the full width template project that I was working on - I think it'll be useful for future projects when I want to quickly setup a site with minimum hassle. 
+
+
+**Thoughts**: Over the last few days, I've had a lot of interesting ideas for projects. Before I explore them any further, I want to finish all my existing projects and push any changes to my (project site)[www.alker.xyz]. I'm also really enjoying Dan Abramov's JavaScript email newsletter, "Just Javascript". I want to have a go at making a project on "JavaScript 30" once my dissertation work has been completed for this week. 
