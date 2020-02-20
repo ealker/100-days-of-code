@@ -97,10 +97,6 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 ### Day 6a, Cheat Day: Sunday 9th February 2020
 
-**Today's Progress**: 
-
-**Thoughts**: 
-
 ### Day 7: Monday 10th February 2020 
 
 **Today's Progress**: I had a busy day today and didn't want to do any research before I started coding like I normally do. I worked on some LeetCode problems. 
