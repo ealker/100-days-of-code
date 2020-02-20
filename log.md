@@ -157,3 +157,9 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 
 **Thoughts**: Over the last few days, I've had a lot of interesting ideas for projects. Before I explore them any further, I want to finish all my existing projects and push any changes to my (project site)[www.alker.xyz]. I'm also really enjoying Dan Abramov's JavaScript email newsletter, "Just Javascript". I want to have a go at making a project on "JavaScript 30" once my dissertation work has been completed for this week. 
+
+### Day 17: Thursday 20th February 2020
+
+**Today's Progress**:
+
+**Thoughts**:
