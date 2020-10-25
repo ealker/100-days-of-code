@@ -191,7 +191,7 @@ Today I have reacquainted myself with my projects and created some new goals for
 **Thoughts**:
 My goals for the rest of 2020.
 
-- Finish the outstanding projects on my ([projects website](www.alker.xyz)).
+- Finish the outstanding projects on my [projects website](https://www.alker.xyz).
 - Have a blog/website I'm proud of where I can easily publish blog content. 
 - Completed a few more challenges on Project Euler and LeetCode. 
 - Learnt Go and the COBRA framework for creating CLI apps. 
