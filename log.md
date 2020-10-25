@@ -172,6 +172,8 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 
 **Thoughts**:
 
+## October 2020
+
 ### Day 22: Sunday 25th October 2020 
 
 What's happened since the last update? 
