@@ -171,3 +171,25 @@ I need to create a new repo as **[commits to forks don't count towards contribut
 **Today's Progress**:
 
 **Thoughts**:
+
+### Day 22: Sunday 25th October 2020 
+
+What's happened since the last update? 
+
+- Global pandemic, lockdowns and a great deal of anxiety/uncertainty.  
+- I graduate from university (graduation ceremony postponed till 2021).
+- I started my graduate job as a Software Engineer. 
+- I worked on projects during lockdown but didn't commit to an hour a day. 
+- Restarted 100 Days of Code.
+
+**Today's Progress**:
+
+Today I have reacquainted myself with my projects and created some new goals for the 67 days left of this challange. I have started building a Gastby website to replace my existing blog. I will archive my current homepage for posterity. 
+
+**Thoughts**:
+My goals for the rest of 2020.
+
+- Finish the outstanding projects on my ([projects website](www.alker.xyz)).
+- Have a blog/website I'm proud of where I can easily publish blog content. 
+- Completed a few more challenges on Project Euler and LeetCode. 
+- Learnt Go and the COBRA framework for creating CLI apps. 
