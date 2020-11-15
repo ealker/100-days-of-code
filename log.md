@@ -195,3 +195,7 @@ My goals for the rest of 2020.
 - Have a blog/website I'm proud of where I can easily publish blog content. 
 - Completed a few more challenges on Project Euler and LeetCode. 
 - Learnt Go and the COBRA framework for creating CLI apps. 
+
+### Day 23: Sunday 15th November 2020 
+
+TIL that `document.querySelector` is a newer way of doing `document.getElementById`. There are subtle differences though that are explained on MDN. 
